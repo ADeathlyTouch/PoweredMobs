@@ -1,4 +1,4 @@
-package com.collinriggs.electricmobs.energy;
+package com.collinriggs.poweredmobs.energy;
 
 import net.minecraft.util.EnumFacing;
 

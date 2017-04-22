@@ -1,4 +1,4 @@
-package com.collinriggs.electricmobs.blocks;
+package com.collinriggs.poweredmobs.blocks;
 
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.tileentity.TileEntity;

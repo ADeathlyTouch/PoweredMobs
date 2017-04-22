@@ -1,4 +1,4 @@
-package com.collinriggs.electricmobs.util;
+package com.collinriggs.poweredmobs.util;
 
 //Created by Bread10 at 14:13 on 22/04/2017
 public class MathHelper {

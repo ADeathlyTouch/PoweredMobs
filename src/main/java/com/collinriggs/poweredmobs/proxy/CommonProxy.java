@@ -1,6 +1,6 @@
-package com.collinriggs.electricmobs.proxy;
+package com.collinriggs.poweredmobs.proxy;
 
-import com.collinriggs.electricmobs.blocks.ModBlocks;
+import com.collinriggs.poweredmobs.blocks.ModBlocks;
 
 //Created by Bread10 at 15:41 on 22/04/2017
 public class CommonProxy {

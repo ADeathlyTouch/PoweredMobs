@@ -1,7 +1,7 @@
-package com.collinriggs.electricmobs.energy;
+package com.collinriggs.poweredmobs.energy;
 
-import com.collinriggs.electricmobs.blocks.ISyncable;
-import com.collinriggs.electricmobs.util.MathHelper;
+import com.collinriggs.poweredmobs.blocks.ISyncable;
+import com.collinriggs.poweredmobs.util.MathHelper;
 import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.tileentity.TileEntity;
 import net.minecraft.util.EnumFacing;

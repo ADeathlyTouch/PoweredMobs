@@ -1,7 +1,7 @@
-package com.collinriggs.electricmobs.blocks;
+package com.collinriggs.poweredmobs.blocks;
 
-import com.collinriggs.electricmobs.blocks.generator.BlockGenerator;
-import com.collinriggs.electricmobs.blocks.generator.TileGenerator;
+import com.collinriggs.poweredmobs.blocks.generator.BlockGenerator;
+import com.collinriggs.poweredmobs.blocks.generator.TileGenerator;
 import net.minecraft.block.Block;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;

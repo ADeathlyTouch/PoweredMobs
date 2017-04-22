@@ -1,6 +1,6 @@
-package com.collinriggs.electricmobs.util;
+package com.collinriggs.poweredmobs.util;
 
-import com.collinriggs.electricmobs.ElectricMobs;
+import com.collinriggs.poweredmobs.PoweredMobs;
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -8,7 +8,7 @@ import org.apache.logging.log4j.Logger;
 //Created by Bread10 at 15:31 on 22/04/2017
 public class LogHelper {
 
-    public static final Logger LOGGER = LogManager.getLogger(ElectricMobs.MODID);
+    public static final Logger LOGGER = LogManager.getLogger(PoweredMobs.MODID);
 
     public static void log(Level level, Object message) {
         LOGGER.log(level, ">>> " + message.toString());

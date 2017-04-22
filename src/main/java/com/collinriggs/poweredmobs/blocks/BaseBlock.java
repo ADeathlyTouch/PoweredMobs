@@ -1,6 +1,6 @@
-package com.collinriggs.electricmobs.blocks;
+package com.collinriggs.poweredmobs.blocks;
 
-import com.collinriggs.electricmobs.ElectricMobs;
+import com.collinriggs.poweredmobs.PoweredMobs;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.Minecraft;
@@ -16,7 +16,7 @@ public abstract class BaseBlock extends Block {
 
     public BaseBlock(Material material) {
         super(material);
-        this.setCreativeTab(ElectricMobs.TAB);
+        this.setCreativeTab(PoweredMobs.TAB);
     }
 
     public void register() {

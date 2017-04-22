@@ -1,6 +1,7 @@
-package com.collinriggs.electricmobs.blocks.generator;
+package com.collinriggs.poweredmobs.blocks.generator;
 
-import com.collinriggs.electricmobs.blocks.BlockRotatable;
+import com.collinriggs.poweredmobs.PoweredMobs;
+import com.collinriggs.poweredmobs.blocks.BlockRotatable;
 import net.minecraft.block.ITileEntityProvider;
 import net.minecraft.block.material.Material;
 import net.minecraft.tileentity.TileEntity;
@@ -13,7 +14,7 @@ public class BlockGenerator extends BlockRotatable implements ITileEntityProvide
 
     public BlockGenerator() {
         super(Material.IRON);
-        this.setRegistryName("generator");
+        this.setRegistryName(PoweredMobs.MODID, "generator");
         this.setUnlocalizedName("generator");
         this.setHarvestLevel("pickaxe", 1);
         this.setHardness(1F);
