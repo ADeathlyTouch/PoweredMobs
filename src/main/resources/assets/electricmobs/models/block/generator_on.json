@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "up": "electricmobs:blocks/machine/top",
+    "down": "electricmobs:blocks/machine/bottom",
+    "north": "electricmobs:blocks/machine/generator_on",
+    "east": "electricmobs:blocks/machine/side",
+    "south": "electricmobs:blocks/machine/side",
+    "west": "electricmobs:blocks/machine/side",
+    "particle": "electricmobs:blocks/machine/side"
+  }
+}
