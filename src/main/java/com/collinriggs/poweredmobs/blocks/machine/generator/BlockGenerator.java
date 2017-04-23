@@ -1,7 +1,8 @@
-package com.collinriggs.poweredmobs.blocks.generator;
+package com.collinriggs.poweredmobs.blocks.machine.generator;
 
 import com.collinriggs.poweredmobs.PoweredMobs;
 import com.collinriggs.poweredmobs.blocks.BlockRotatable;
+import com.collinriggs.poweredmobs.blocks.machine.Wrenchable;
 import net.minecraft.block.ITileEntityProvider;
 import net.minecraft.block.material.Material;
 import net.minecraft.tileentity.TileEntity;
@@ -10,6 +11,7 @@ import net.minecraft.world.World;
 import javax.annotation.Nullable;
 
 //Created by Bread10 at 09:48 on 22/04/2017
+@Wrenchable
 public class BlockGenerator extends BlockRotatable implements ITileEntityProvider {
 
     public BlockGenerator() {

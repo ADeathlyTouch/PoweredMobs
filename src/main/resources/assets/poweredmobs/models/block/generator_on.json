@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "up": "poweredmobs:blocks/machine/top",
+    "down": "poweredmobs:blocks/machine/bottom",
+    "north": "poweredmobs:blocks/machine/generator_on",
+    "east": "poweredmobs:blocks/machine/side",
+    "south": "poweredmobs:blocks/machine/side",
+    "west": "poweredmobs:blocks/machine/side",
+    "particle": "poweredmobs:blocks/machine/side"
+  }
+}

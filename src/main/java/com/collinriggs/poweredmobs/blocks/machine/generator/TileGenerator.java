@@ -1,4 +1,4 @@
-package com.collinriggs.poweredmobs.blocks.generator;
+package com.collinriggs.poweredmobs.blocks.machine.generator;
 
 import com.collinriggs.poweredmobs.energy.TileEnergy;
 
